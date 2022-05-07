@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Amer",
+      "email": "Amer@123",
+      "mobile": "123"
+    },
+    {
+      "id": 2,
+      "name": "Mani",
+      "email": "Mani@123",
+      "mobile": "123"
+    },
+    {
+      "id": 3,
+      "name": "Kumar",
+      "email": "Kumar@123",
+      "mobile": "123"
+    },
+    {
+      "id": 4,
+      "name": "Prasad",
+      "email": "Prasad@123",
+      "mobile": "123"
+    },
+    {
+      "id": 5,
+      "name": "Anusha",
+      "email": "Anusha@123",
+      "mobile": "123"
+    },
+    {
+      "id": 6,
+      "name": "Naveen",
+      "email": "Naveen@123",
+      "mobile": "123"
+    },
+    {
+      "id": 7,
+      "name": "Rajesh",
+      "email": "Rajesh@123",
+      "mobile": "123"
+    }
+  ]
+}

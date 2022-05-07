@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.table1,th,td{
+border:solid 3px violet
+}
+.td{
+  width: 200px;
+}
+input{
+  border-radius: 10px;
+  border:solid 1px aquamarine;
+  color:red;
+
+}
